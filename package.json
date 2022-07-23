@@ -1,0 +1,44 @@
+{
+  "name": "story-teller",
+  "version": "1.0.0",
+  "description": "Story teller bot for minecraft.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Mirko kral",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "ansi-escapes": "^5.0.0",
+    "basic-minecraft-proxy": "^2.0.1",
+    "brainfuck-node": "^1.0.2",
+    "clipboardy": "^3.0.0",
+    "cowsay": "^1.5.0",
+    "discord.js": "^13.8.0",
+    "eval": "^0.1.8",
+    "express": "^4.18.1",
+    "interactive-console": "0.0.5",
+    "interactiveConsole": "0.0.7-alpha0",
+    "javascript-color-gradient": "^2.4.4",
+    "js-yaml": "^4.1.0",
+    "minecraft-data": "^3.5.0",
+    "minecraft-protocol": "^1.35.0",
+    "mineflayer": "^4.3.0",
+    "mineflayer-armor-manager": "^1.4.2",
+    "mineflayer-pathfinder": "^2.1.1",
+    "mineflayer-pvp": "^1.2.1",
+    "nbs-viewer": "^0.0.2",
+    "nbs.js": "^1.0.3",
+    "node-docker-api": "^1.1.22",
+    "node-fetch": "^2.6.7",
+    "prismarine-viewer": "^1.23.0",
+    "prompt-sync": "^4.2.0",
+    "safe-eval": "^0.4.1",
+    "vec3": "^0.1.7",
+    "vm2": "^3.9.9"
+  },
+  "devDependencies": {
+    "electron": "^19.0.7"
+  }
+}
